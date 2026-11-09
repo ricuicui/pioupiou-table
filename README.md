@@ -1,4 +1,4 @@
-# Pioupiou Table
+# Pioupiou Table Modele Foundation Rust
 
 **A tabular foundation model written in Rust, pre-trained only on real tables.**
 
@@ -102,7 +102,5 @@ allemand. Les chiffres viennent toujours du calcul.
 
 **Résultats** sur 88 tableaux jamais vus : 0,464, contre 0,423 pour la version précédente (tableau
 ci-dessus).
-
-**Article** : [pioupiou-table-v0.23.pdf](pioupiou-table-v0.23.pdf)
 
 Le code source et les poids ne sont pas publiés. Contact : coucou@ricuicui.com
